@@ -5,3 +5,5 @@ data2/*
 /config/
 *.dat
 !/*.dat
+/*.class
+/passwords.dat
